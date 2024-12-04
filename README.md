@@ -1,5 +1,5 @@
 # me-lleva-lachingadaaaaaa
 
 + [imagenes](imagenes)
-+ [sonidos/samples](sonidos)
++ [sonidos](sonidos)
 + [videos](videos)
