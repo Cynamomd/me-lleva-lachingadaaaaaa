@@ -1,1 +1,2 @@
 ## sonidos
+[sonidos](samples.json)
