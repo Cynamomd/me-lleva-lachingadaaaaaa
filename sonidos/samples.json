@@ -1,0 +1,22 @@
+[
+  { "url":"sound(1)","type":"audio","bank":"banco1","n":0},
+  { "url":"sound(2)","type":"audio","bank":"banco1","n":1},
+  { "url":"sound(3)","type":"audio","bank":"banco1","n":2},
+  { "url":"sound(4)","type":"audio","bank":"banco1","n":3},
+  { "url":"sound(5)","type":"audio","bank":"banco1","n":4},
+  { "url":"sound(6)","type":"audio","bank":"banco1","n":5},
+  { "url":"sound(7)","type":"audio","bank":"banco1","n":6},
+  { "url":"sound(8)","type":"audio","bank":"banco1","n":7},
+  { "url":"sound(9)","type":"audio","bank":"banco1","n":8},
+  { "url":"sound(10)","type":"audio","bank":"banco1","n":9},
+  { "url":"sound(11)","type":"audio","bank":"banco1","n":10},
+  { "url":"sound(12)","type":"audio","bank":"banco1","n":11},
+  { "url":"sound(13)","type":"audio","bank":"banco1","n":12},
+  { "url":"sound(14)","type":"audio","bank":"banco1","n":13},
+  { "url":"sound(15)","type":"audio","bank":"banco1","n":14},
+  { "url":"sound(16)","type":"audio","bank":"banco1","n":15},
+  { "url":"sound(17)","type":"audio","bank":"banco1","n":16},
+  { "url":"sound(18)","type":"audio","bank":"banco1","n":17},
+  { "url":"sound(19)","type":"audio","bank":"banco1","n":18},
+  { "url":"sound(20)","type":"audio","bank":"banco1","n":19}
+]
